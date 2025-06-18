@@ -14,4 +14,9 @@
 	Text Domain: hello-elementor
 	Tags: accessibility-ready, flexible-header, custom-colors, custom-menu, custom-logo, featured-images, rtl-language-support, threaded-comments, translation-ready,
 */
-.site-main{max-width:1140px}.site-footer.footer-full-width,.site-header.header-full-width{max-width:100%}}.site-header+.elementor{min-height:calc(100vh - 320px)}
+.site-main{
+	max-width:1140px
+}
+.site-footer.footer-full-width,.site-header.header-full-width{
+	max-width:100%
+}
